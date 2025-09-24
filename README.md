@@ -33,7 +33,14 @@ Using the primary data set, we discovered the number of ACE violations on record
 ![B41 ACE](/images/b41ace.png)
 ![B44+ ACE](/images/b44ace.png)
 We then examined the speed trends for each of the buses
-<!-- INSERT OTHER IMAGES HERE -->
+
+The average speed trends:
+- B6: 8.47 
+- B41: 7.56
+- B44: 8.25 
+The B6 is not being affected and moves more efficiently than the buses with ACE implemented during that period of time. The reason why this could be happening can be affected by many factors such as traffic, route or period. The B6  speed average has been improving and becoming faster than the buses with ACE implemented. As observed in the tables it is noticeable that B6 speed average is 0.2 faster than B44 and 0.86 faster than B41 which demonstrates that ACE might not be as successful in this route than other ones in a different borough and that ACE does not guarantee immediate faster service.
+![Speed Comparison](/images/speed_travel.png)
+
 
 # Insights and Conclusion
 The number of violations decreasing appears to correspond with an increase in speed for the B41 and B44. Less violations being issues means that there are less cars blocking bus lanes, which occurs alongside an increase in bus speed. 
