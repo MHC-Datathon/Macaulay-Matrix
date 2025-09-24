@@ -41,4 +41,3 @@ We then examined the speed trends for each of the buses
 - Mary, Brooklyn College '26, *https://www.linkedin.com/in/mary-mctarsney/*
 - Lizzie, Baruch College '26
 - Martina, Brooklyn College '26
->>>>>>> r1remote
