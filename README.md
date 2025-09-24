@@ -32,3 +32,12 @@ For our analysis we are focusing on 3 bus routes, *all ones that service Brookly
 Using the primary data set, we discovered the number of ACE violations on record for the B41 and B44+
 ![B41 ACE](/images/b41ace.png)
 ![B44+ ACE](/images/b44ace.png)
+We then examined the speed trends for each of the buses
+<!-- INSERT OTHER IMAGES HERE -->
+
+# Insights and Conclusion
+
+# Contributors
+- Mary, Brooklyn College '26, *https://www.linkedin.com/in/mary-mctarsney/*
+- Lizzie, Baruch College '26
+- Martina, Brooklyn College '26
