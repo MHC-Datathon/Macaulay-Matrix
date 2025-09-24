@@ -51,4 +51,4 @@ However, while ACE bus routes (B41 and B44+ ) have seen speed improvements, non-
 # Contributors
 - Mary, Brooklyn College '26, *https://www.linkedin.com/in/mary-mctarsney/*
 - Lizzie, Baruch College '26 *https://www.linkedin.com/in/martina-garcia-vasquez-9b584b251/*
-- Martina, Brooklyn College '26
+- Martina, Brooklyn College '26 *https://www.linkedin.com/in/lizzietsk/*
