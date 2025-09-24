@@ -1,7 +1,6 @@
 ![Project Header](/images/mm_header.png)
 
 # Purpose
-
 This analysis was conducted to evaluate the impact of the Automated Camera Enforcement *(ACE)* program on bus performance 
 in Brooklyn, with a specific focus on routes commonly used by **Brooklyn College** students. The goal is to determine whether  
 the implementation of ACE has led to improvements in bus speeds and trip times, which are critical factors affecting the 
@@ -24,3 +23,12 @@ serving Brooklyn College students.
 The ACE program is a bus-mounted camera system that issues violations to vehicles occupying bus lanes, double parked vehicles along bus routes, and vehicles blocking bus stops. It is currently active on 39 bus routes that carry over 775K average weekday riders. Of those 39 routes, 9 are in Brooklyn. 
 *https://www.mta.info/agency/new-york-city-transit/automated-camera-enforcement*
 ![List showing ACE routes in Brooklyn](/images/ace_bk.png)
+
+# Method
+For our analysis we are focusing on 3 bus routes, *all ones that service Brooklyn College*
+![B6, B41, B44+](/images/buses.png)
+
+# Exploratory Data Analysis
+Using the primary data set, we discovered the number of ACE violations on record for the B41 and B44+
+![B41 ACE](/images/b41ace.png)
+![B44+ ACE](/images/b44ace.png)
