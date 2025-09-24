@@ -34,7 +34,7 @@ Using the primary data set, we discovered the number of ACE violations on record
 ![B44+ ACE](/images/b44ace.png)
 We then examined the speed trends for each of the buses
 
-The average speed trends:
+The average speed trends in 2025:
 - B6: 8.47 
 - B41: 7.56
 - B44: 8.25 
