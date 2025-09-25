@@ -56,8 +56,8 @@ The number of violations decreasing appears to correspond with an increase in sp
 However, while ACE bus routes (B41 and B44+ ) have seen speed improvements, non-ACE bus routes (like the B6) have also seen speed increases. ACE does appear to be partially responsible for improving speeds along those routes, but citywide efforts to improve bus speeds may also be responsible. The Better Buses inititative *(https://www.nyc.gov/html/brt/html/betterbuses/betterbuses.shtml)* and Bus Network Redesign *(https://www.mta.info/project/bus-network-redesign)* are just some examples of how the city has been working to improve bus service overall. 
 
 # Videos
-[![Video 1](http://img.youtube.com/vi/fgpGO1mT07o/0.jpg)](http://www.youtube.com/watch?v=fgpGO1mT07o "Video 1")
-[![Video 2](http://img.youtube.com/vi/ifTdYRWUDTA/0.jpg)](http://www.youtube.com/watch?v=ifTdYRWUDTA "Video 2")
+[![Video 1](http://img.youtube.com/vi/fgpGO1mT07o/1.jpg)](http://www.youtube.com/watch?v=fgpGO1mT07o "Video 1")
+[![Video 2](http://img.youtube.com/vi/ifTdYRWUDTA/1.jpg)](http://www.youtube.com/watch?v=ifTdYRWUDTA "Video 2")
 
 
 # Contributors
